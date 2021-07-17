@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asfnz
 - 👀 I’m interested in UX Designs 
-- 🌱 I’m currently learning Material Design 
+- 🌱 I’m currently learning Material Design and React.js
 - 💞️ I’m looking to collaborate on UX and UI
 - 📫 How to reach me github/@asfnz
 
